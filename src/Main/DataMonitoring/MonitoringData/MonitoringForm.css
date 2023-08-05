@@ -1,0 +1,10 @@
+.Mon-form input{
+    height: 25px;
+    border: none;
+    background-color: rgba(2, 46, 231,0.2);
+}
+select{
+    background-color: rgba(2, 46, 231,0.2);
+    height: 25px;
+
+}

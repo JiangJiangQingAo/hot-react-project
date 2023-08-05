@@ -1,0 +1,39 @@
+.HomeDiv {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    /* background-color: #f5f5f5; */
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .HomeUl {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .HomeLi {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .HomeLi:last-child {
+    margin-right: 0;
+  }
+  
+  .HomeLi a {
+    display: block;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #007bff;
+    border-radius: 3px;
+  }
+  
+  .HomeLi a:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  

@@ -1,0 +1,20 @@
+header .title{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px auto 10px;
+}
+header .nav{
+    line-height: 50px;
+    font-size: 25px;
+    display: flex;
+    text-align: center;
+    /* border: 1px solid red; */
+    background: url(../background/head_bg.png);
+    margin-bottom: 10px;
+    height: 100px;
+}
+header .nav div{
+    flex: 4;
+    padding: 10px;
+}

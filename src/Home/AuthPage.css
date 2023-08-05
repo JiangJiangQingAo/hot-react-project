@@ -1,0 +1,65 @@
+.authDiv {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .authP {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .authH2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000;
+  }
+  
+  .authForm {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .authForm-Username,
+  .authForm-Password,
+  .authEmail {
+    margin-bottom: 10px;
+  }
+  
+  .authUsername-Inp,
+  .authPassword-Inp,
+  .authEmail-Inp {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .authLogin-But {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .authLogin-But:hover {
+    background-color: #0056b3;
+  }
+  
+  a {
+    text-align: center;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
