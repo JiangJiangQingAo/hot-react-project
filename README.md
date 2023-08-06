@@ -1,6 +1,7 @@
 # 该项目为基于物联网工程的毕业设计，由React框架为基础开发的可视化界面。
 # 使用Echarts等第三方库实现Web端设计，将调用Strapi接口来实现数据实时显示。
 
+## 项目技术栈：React、React-dom、React-router、React-redux、 Strapi、Echarts-for-react
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
